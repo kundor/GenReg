@@ -1,0 +1,12 @@
+# Ignore everthing
+*
+# Except files with extensions
+!*.*
+
+
+*.o
+*.g6
+*.scd
+*.erg
+*.OLD
+*.gcda
